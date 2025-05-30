@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project explores and analyzes the Walmart sales dataset to help Walmart understand which products, regions, categories, and customer segments to target or avoid. It includes data exploration, cleaning, visualization, machine learning, and time series forecasting components.
 
+![Dashboard](https://github.com/YahiaAldeeb/WalmartSales/blob/main/Screenshot%202025-05-30%20162858.png)
+
 ## 🔍 Dataset Description
 - Rows: 9,995
 - Columns: 21 (including Order ID, Sales, Profit, Discount, Customer Info, Product Info, Dates, etc.)
