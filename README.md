@@ -46,7 +46,9 @@ Interactive dashboard visualizing:
 - Python (Pandas, Matplotlib, Scikit-learn, Statsmodels)
 - Power BI
 
-## Collaborators
+---
+
+## 👥 Authors
 - [Yahia Aldeeb](https://github.com/YahiaAldeeb)
 - [Hana Omar](https://github.com/HanaOmar1)
 - [Abdelrahman Maamoun](https://github.com/amaamoun99)
